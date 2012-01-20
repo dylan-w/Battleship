@@ -1,0 +1,1 @@
+This is the battleship game I made in C. This is just my first experiment with creating a project on github.
